@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
-2. ### ¿Por qué es conveniente incluirlo?
+### ¿Por qué es conveniente incluirlo?
 Porque te ayuda a excluir archivos o carpetas que no deben subirse al repositorio, como:
 - Archivos temporales (.log, .tmp, etc.)
 - Configuraciones locales (.env, *.local, etc.)
