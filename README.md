@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kl-E8VQf)
+2. 
 ### ¿Por qué es conveniente incluirlo?
 Porque te ayuda a excluir archivos o carpetas que no deben subirse al repositorio, como:
 - Archivos temporales (.log, .tmp, etc.)
@@ -12,3 +13,8 @@ Porque te ayuda a excluir archivos o carpetas que no deben subirse al repositori
 ### ¿Cómo configuraría el archivo .gitignore?
 Es un archivo de texto simple. Asi que se puede crear con el comando: touch .gitignore
 Y dentro escribes patrones o nombres de archivos/carpetas que quieres ignorar.
+3. 
+### ¿Qué archivos vé?
+Es Posible ver el ejecutable y una carperta de vscode 
+### ¿Cuál cree que no hace falta que esté?
+El ejecutable y la carperta de vscode
