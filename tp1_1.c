@@ -2,6 +2,11 @@
 #include <stdlib.h>
 
 int main (){
-    printf("Hola Mundial");
-    return 0;
+    int *punt;
+    int cosox=4;
+    punt=&cosox;
+    printf("Contenido del puntero: %i \n",*punt);
+    printf("Dirección de memoria almacenada por el puntero: %p \n",punt);
+    printf("La dirección de memoria de la variable: %p \n",&cosox);
+    
 }
