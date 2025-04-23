@@ -18,3 +18,10 @@ Y dentro escribes patrones o nombres de archivos/carpetas que quieres ignorar.
 Es Posible ver el ejecutable y una carperta de vscode 
 ### ¿Cuál cree que no hace falta que esté?
 El ejecutable y la carperta de vscode
+### ¿a qué se debe? 
+Esto se debe a que el puntero almacena la direccion de memoria de la variable cosox
+### ¿Qué obtiene en el punto 4?
+Se obtiene la direccion de memoria del puntero es decir donde se encuentra almacenado el puntero 
+###  ¿Es igual a los anteriores?
+No es igual ya que es otra direccion de memoria, es la direccion de memoria del puntero 
+
